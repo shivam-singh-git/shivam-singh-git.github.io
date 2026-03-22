@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shivamsingh.dev/sitemap.xml
+Sitemap: https://shivam-singh-git.github.io/sitemap.xml
